@@ -84,6 +84,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==2.23
 Pygments==2.19.2
+pyinspirehep==1.1.1
 pyparsing==3.2.5
 pytest==8.4.2
 python-dateutil==2.9.0.post0
@@ -111,6 +112,7 @@ texttable==1.7.0
 threadpoolctl==3.6.0
 tinycss2==1.4.0
 tornado==6.5.2
+tqdm==4.67.1
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20250822
 typing_extensions==4.15.0
